@@ -1,1 +1,1 @@
-my second commit
+linux is cool af
